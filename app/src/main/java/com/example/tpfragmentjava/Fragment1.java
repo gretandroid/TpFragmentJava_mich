@@ -25,6 +25,14 @@ public class Fragment1 extends Fragment {
     public Fragment1() {
         // Required empty public constructor
     }
+
+    /**
+     *
+     * @param inflater
+     * @param container
+     * @param savedInstanceState
+     * @return
+     */
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
