@@ -46,23 +46,6 @@ public class MainActivity extends AppCompatActivity implements Fragment1.Communi
     public void send(String nom) {
         TextView textView = findViewById(R.id.textViewActivity);
         textView.setText(nom);
+//        Fragment2
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
